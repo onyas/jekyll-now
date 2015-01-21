@@ -9,6 +9,6 @@ title: How to find the script of a process in linux
 
     2、ll /proc/PID
 
-    get the directory
+    get the directory through the CWD link
   
   
