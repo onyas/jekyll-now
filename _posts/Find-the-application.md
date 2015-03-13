@@ -7,3 +7,4 @@ title:How to find the application which is using the assigned port
     get the pid or name
 
   2、ps -ef |grep pid or name
+    get the application
