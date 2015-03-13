@@ -9,4 +9,4 @@ title: How to find the application using the assigned port
 
     2、ps -ef |grep pid or name
     
-            get the application
+        get the application
