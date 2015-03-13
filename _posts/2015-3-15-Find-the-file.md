@@ -7,4 +7,4 @@ In linux environment,if we want to find which file contains the specified string
 
     1、grep "java" . -r -n
     
-        find all the files included "java" in the current directory and subdirectories
+        find all the files included "java" in the current directory and subdirectories 
