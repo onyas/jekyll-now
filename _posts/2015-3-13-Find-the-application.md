@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to find the application using the assigned port
+title: How to find the application used the assigned port
 ---
 
 usually,we want to find which application is using the assigned port,like 8080,here is the example.
